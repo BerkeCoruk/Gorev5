@@ -1,0 +1,130 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    display: flex;
+    width: 1132px;
+    margin:0px auto;
+    margin-top: 20px;
+}
+.img2{
+    margin-top: 15px;
+    margin-left: 5px;
+    width: 113px;
+}
+.menu ul{
+    display: flex;
+    margin-top: 15px;
+}
+.menu ul li{
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    font-family: Montserrat;
+    margin-left: 30px;
+    font-weight: bold;
+    width: 104px;
+}
+.menu p {
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    font-family: Montserrat;
+    margin-left: 50px;
+    font-weight: bold;
+}
+#send{
+    margin-left: 100px;
+}
+#money{
+    width: 124px; 
+}
+#id{
+    margin-left: 100px;
+    width: 121px;
+}
+.button button{
+    border: 1.5px solid #B7B3B3;
+    background-color: white;
+    font-family: Montserrat;
+    margin-left: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 5px;
+    width: 106px;
+    height: 40px;
+}
+.button2 button{
+    border: 1.5px solid #B7B3B3;
+    background-color: #6c63ff;
+    font-family: Montserrat;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 5px;
+    color: white; 
+    width: 106px;
+    height: 40px;
+}
+.button3 button{
+    border: 1.5px solid #353434;
+    background-color: #6c63ff;
+    font-family: Montserrat;
+    font-size: 16px;
+    margin-top: 5px;
+    color: white; 
+    width: 146px;
+    height: 50px;
+}
+.button4 button{
+    border: 1.5px solid #353434;
+    background-color: white;
+    font-family: Montserrat;
+    margin-left: 30px;
+    font-size: 16px;
+    margin-top: 5px;
+    width: 125px;
+    height: 50px;
+}
+.article{
+    display: flex;
+    width: 1132px;
+    margin:0px auto;
+    margin-top: 20px;
+}
+.yazi1 p{
+    margin-top: 70px;
+    font-family: Montserrat;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 53.64px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 423px;
+    height: 100px;
+}
+#çizgi{
+    margin-top: 30px;
+    width: 52px;
+    height: 3px;
+    background-color: #B7B3B3; 
+}
+#lite{
+    margin-top: 30px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.38px;
+    text-align: left;
+    font-weight: lighter;
+    text-decoration-skip-ink: none;
+}
+.img3{
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.buttonkutu{display: flex;
+margin-top: 20px;
+}
